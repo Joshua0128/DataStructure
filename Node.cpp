@@ -1,7 +1,6 @@
 /** @file Node.cpp */
-#include "Node.h"
 #include <cstddef>
-
+#include "Node.h"
 template <class ItemType>
 Node<ItemType>::Node() : next(nullptr)
 {

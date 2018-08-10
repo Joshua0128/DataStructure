@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cassert": "cpp",
+        "random": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
